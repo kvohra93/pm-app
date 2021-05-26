@@ -1,5 +1,5 @@
 # FateBook - Find your soulmate!
-## Table of Contents
+## List of Contents
   * Our Project
   * Our Team
   * Project Charter
