@@ -21,3 +21,10 @@
   
  * Vamshi Krishna Thirunagari - Designer <br>
   <img src="images/Vamshi.jpeg" height="300px" alt="Vamshi Krishna Thirunagari">
+  
+## Project Charter
+ * Link for Project Charter: [Project Charter](Charter/charter.md)
+## Scope
+## Schedule
+## Budget
+
