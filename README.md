@@ -25,6 +25,34 @@
 ## Project Charter
  * Link for Project Charter: [Project Charter](Charter/charter.md)
 ## Scope
+
+  ### Initiation
+   * Look for similar websites
+   * Gather useful resources
+  ### Planning
+   * Kick Off Meeting
+   * Logo Design
+   * Budget Analysis
+   * Sketch a website layout
+   * Required Technologies
+   * Team Meeting
+  ### Execution
+   * Distribute work
+   * Implement Backend
+   * Implement Frontend
+   * Unit Testing
+   * Team Meeting
+  ### Monitoring & Controlling
+   * Run Testcases on entire code
+   * Bug fixes
+   * Performance Tuning
+   * Stakeholder Meeting
+  ### Closing 
+   * Launch the application
+   * 5.2 Site Maintenance
+
 ## Schedule
 ## Budget
+
+ 
 
