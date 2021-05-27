@@ -62,6 +62,11 @@
  <img src="/Resource Loading Histogram/img.PNG"><br>
 
 ## Budget
+ * Cost for labour:  $43,260.00 
+ * Cost for technologies:  $22,400.00 
+ * Total Budget for the project: $65,660.00
+
+ <img src="/images/Budget.png">
 
  
 
