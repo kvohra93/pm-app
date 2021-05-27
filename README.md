@@ -49,9 +49,16 @@
    * Stakeholder Meeting
   ### Closing 
    * Launch the application
-   * 5.2 Site Maintenance
+   * Site Maintenance
 
 ## Schedule
+ * Start Date: 05/25/2021
+ * End Date: 09/01/2021
+ * Duration: 14 weeks
+ * Schedule File: [Schedule](/Schedule/group05_WBS_sches.mpp)<br>
+ <img src="/images/schedule1.png"><br>
+ <img src="/images/schedule2.png">
+
 ## Budget
 
  
