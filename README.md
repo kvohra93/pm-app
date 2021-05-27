@@ -27,8 +27,8 @@
 ## Scope
 
   ### Initiation
-   * Look for similar websites
-   * Gather useful resources
+   * Analyse websites which resemble FateBook design
+   * Gather useful resource and initial setup
   ### Planning
    * Kick Off Meeting
    * Logo Design
@@ -49,7 +49,7 @@
    * Stakeholder Meeting
   ### Closing 
    * Launch the application
-   * Site Maintenance
+   * Update and Maintenance
 
 ## Schedule
  * Start Date: 05/25/2021
