@@ -57,8 +57,9 @@
  * Duration: 14 weeks
  * Schedule File: [Schedule](/Schedule/group05_WBS_sches.mpp)<br>
  <img src="/images/schedule1.png"><br>
- <img src="/images/schedule2.png"><br>
- <img src="/Resource Loading Histogram/img.png"><br>
+ <img src="/images/schedule2.png"><br> <br>
+ **Resource Loading Histogram**<br>
+ <img src="/Resource Loading Histogram/img.PNG"><br>
 
 ## Budget
 
