@@ -43,7 +43,7 @@
    * Unit Testing
    * Team Meeting
   ### Monitoring & Controlling
-   * Run Testcases on entire code
+   * Run Test cases on entire code
    * Bug fixes
    * Performance Tuning
    * Stakeholder Meeting
@@ -56,17 +56,19 @@
  * End Date: 09/01/2021
  * Duration: 14 weeks
  * Schedule File: [Schedule](/Schedule/group05_WBS_sches.mpp)<br>
- <img src="/images/schedule1.png"><br>
- <img src="/images/schedule2.png"><br> <br>
+ <img src="/images/schedule1.png" width="60%"><br>
+ <img src="/images/schedule2.png" width="60%"><br> <br>
  **Resource Loading Histogram**<br>
- <img src="/Resource Loading Histogram/img.PNG"><br>
+ <img src="/Resource Loading Histogram/img.PNG" width="60%"><br>
 
 ## Budget
  * Cost for labour:  $43,260.00 
  * Cost for technologies:  $22,400.00 
  * Total Budget for the project: $65,660.00
 
- <img src="/images/Budget.png">
+ <img src="/images/Budget.png" width="60%"><br>
+ 
+  Reference : [Bharat Matrimony](https://www.bharatmatrimony.com/) , [Shaadi.com](https://www.shaadi.com/)
 
  
 
