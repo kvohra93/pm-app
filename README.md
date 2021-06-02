@@ -27,21 +27,21 @@
 ## Scope
 
   ### Initiation
-   * Analyse websites which resemble FateBook design
-   * Gather useful resource and initial setup
+   * Look for similar websites
+   * Gather useful resources
   ### Planning
    * Kick Off Meeting
    * Logo Design
+   * Completed Logo Design
    * Budget Analysis
    * Sketch a website layout
    * Required Technologies
-   * Team Meeting
   ### Execution
    * Distribute work
    * Implement Backend
    * Implement Frontend
    * Unit Testing
-   * Team Meeting
+   * Meeting
   ### Monitoring & Controlling
    * Run Test cases on entire code
    * Bug fixes
@@ -49,7 +49,7 @@
    * Stakeholder Meeting
   ### Closing 
    * Launch the application
-   * Update and Maintenance
+   * Site Maintenance
 
 ## Schedule
  * Start Date: 05/25/2021
