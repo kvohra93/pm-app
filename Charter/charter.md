@@ -1,7 +1,7 @@
 **Project Title:** FATEBOOK<br>
 
 **Project Logo:** <br>
-<img src="/images/LOGO.jpg" height ="50px" width ="50px"> <br>
+<img src="/images/LOGO.jpg" height ="100px" width ="100px"> <br>
 **Project Start Date:** 05/25/2021<br>
 
 **Projected Finish Date:** 10/01/2021<br>
